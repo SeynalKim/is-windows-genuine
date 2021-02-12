@@ -5,7 +5,6 @@ Written in C++, a simple function that checks if Windows License is Genuine. Tes
 
 Include the following library on your class.
 ```
-/*Include the following library*/
 #define _WIN32_WINNT 0x600
 #include <iostream>
 #include <windows.h>
